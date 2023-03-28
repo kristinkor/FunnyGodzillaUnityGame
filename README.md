@@ -18,3 +18,5 @@ Well, first of all you get to the end of the game and complete it. Also as a res
 ## Link to the Game video playtest
 
 https://youtu.be/MU_ugwN-c8Q 
+
+![image](https://user-images.githubusercontent.com/30262973/228327190-08977a43-28f7-4b44-a91c-c706007ec615.png)
